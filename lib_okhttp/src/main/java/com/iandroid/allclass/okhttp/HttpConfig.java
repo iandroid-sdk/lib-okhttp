@@ -84,12 +84,12 @@ public class HttpConfig {
         public Builder() {
         }
 
-        public Builder setiDomainProvider(IDomainProvider iDomainProvider) {
+        public Builder domainProvider(IDomainProvider iDomainProvider) {
             this.iDomainProvider = iDomainProvider;
             return this;
         }
 
-        public Builder setiHeaderProvider(IHeaderProvider iHeaderProvider) {
+        public Builder headerProvider(IHeaderProvider iHeaderProvider) {
             this.iHeaderProvider = iHeaderProvider;
             return this;
         }
@@ -99,7 +99,7 @@ public class HttpConfig {
             return this;
         }
 
-        public Builder setiRequestResponse(IRequestResponse iRequestResponse) {
+        public Builder requestResponse(IRequestResponse iRequestResponse) {
             this.iRequestResponse = iRequestResponse;
             return this;
         }
