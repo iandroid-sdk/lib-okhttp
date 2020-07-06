@@ -104,9 +104,10 @@ public class HttpConfig {
             return this;
         }
 
-        public void addInterceptor(Interceptor interceptor) {
+        public Builder addInterceptor(Interceptor interceptor) {
             if (okHttpInterceptors == null) okHttpInterceptors = new ArrayList<>();
             okHttpInterceptors.add(interceptor);
+            return this;
         }
 
         public Builder okHttpInterceptor(Interceptor okHttpInterceptor) {
