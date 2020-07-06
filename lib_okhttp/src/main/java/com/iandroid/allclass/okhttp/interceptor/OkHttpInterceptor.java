@@ -16,7 +16,6 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 public class OkHttpInterceptor {
-
     public static Interceptor get() {
         return chain -> {
             Request request = chain.request();
