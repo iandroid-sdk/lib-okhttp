@@ -7,7 +7,7 @@ import java.util.HashMap;
 import okhttp3.Headers;
 
 public class BaseHeaderManager implements IHeaderProvider {
-    private HashMap<String, String> headerMap = new HashMap<>();
+    protected HashMap<String, String> headerMap = new HashMap<>();
 
     @Override
     public Headers onGetOkhttpHeaders(Headers oldHeaders) {
