@@ -15,6 +15,12 @@ import okhttp3.Interceptor;
 import okhttp3.Request;
 import okhttp3.Response;
 
+
+/**
+ * created by wangkm
+ * on 2020-7-7
+ */
+
 public class OkHttpInterceptor {
     public static Interceptor get() {
         return chain -> {

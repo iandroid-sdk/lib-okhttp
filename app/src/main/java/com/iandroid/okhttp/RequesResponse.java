@@ -12,6 +12,10 @@ import okhttp3.ResponseBody;
 import okio.Buffer;
 import okio.BufferedSource;
 
+/**
+ * created by wangkm
+ * on 2020-7-7
+ */
 public class RequesResponse implements IRequestResponse {
     private static final Charset UTF8 = Charset.forName("UTF-8");
 

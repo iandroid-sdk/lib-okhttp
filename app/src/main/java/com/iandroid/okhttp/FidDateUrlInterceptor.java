@@ -20,6 +20,10 @@ import okhttp3.RequestBody;
 import okhttp3.Response;
 import okio.Buffer;
 
+/**
+ * created by wangkm
+ * on 2020-7-7
+ */
 public class FidDateUrlInterceptor implements Interceptor {
     @Override
     public Response intercept(Chain chain) throws IOException {

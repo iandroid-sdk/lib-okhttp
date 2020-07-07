@@ -6,6 +6,11 @@ import java.util.HashMap;
 
 import okhttp3.Headers;
 
+/**
+ * created by wangkm
+ * on 2020-7-7
+ */
+
 public class BaseHeaderManager implements IHeaderProvider {
     protected HashMap<String, String> headerMap = new HashMap<>();
 

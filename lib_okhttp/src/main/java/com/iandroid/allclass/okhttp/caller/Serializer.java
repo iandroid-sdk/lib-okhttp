@@ -1,8 +1,10 @@
 package com.iandroid.allclass.okhttp.caller;
 
 /**
- * Created by david on 2019/6/25.
+ * created by wangkm
+ * on 2020-7-7
  */
+
 public enum Serializer {
     FastJson, FBS,
 }

@@ -10,6 +10,10 @@ import com.iandroid.allclass.okhttp.retrofit.ServiceFactory;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+/**
+ * created by wangkm
+ * on 2020-7-7
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override

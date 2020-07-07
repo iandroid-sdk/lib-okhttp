@@ -2,9 +2,11 @@ package com.iandroid.allclass.okhttp.interceptor;
 
 import com.iandroid.allclass.okhttp.retrofit.ServiceFactory;
 
+
 /**
  * 可以再此处统一处理错误相关信息
- * Created by david on 2019/7/4.
+ * created by wangkm
+ * on 2020-7-7
  */
 public class DefaultErrorHandler {
 

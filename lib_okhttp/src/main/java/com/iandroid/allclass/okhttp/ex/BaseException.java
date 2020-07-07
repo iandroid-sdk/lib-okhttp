@@ -1,7 +1,8 @@
 package com.iandroid.allclass.okhttp.ex;
 
 /**
- * Created by david on 2019/6/12.
+ * created by wangkm
+ * on 2020-7-7
  */
 public class BaseException extends Exception {
 

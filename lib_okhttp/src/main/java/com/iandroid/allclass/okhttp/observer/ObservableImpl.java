@@ -11,7 +11,8 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 /**
- * Created by Developer Zailong Shi on 2019-06-21.
+ * created by wangkm
+ * on 2020-7-7
  */
 public class ObservableImpl<R> implements Observable<R> {
 

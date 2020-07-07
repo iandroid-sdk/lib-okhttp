@@ -12,7 +12,8 @@ import java.util.concurrent.TimeoutException;
 import retrofit2.HttpException;
 
 /**
- * Created by david on 2019/6/25.
+ * created by wangkm
+ * on 2020-7-7
  */
 public class ExceptionEngine {
 

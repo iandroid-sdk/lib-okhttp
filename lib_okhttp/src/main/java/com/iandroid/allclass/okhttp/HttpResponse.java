@@ -1,7 +1,8 @@
 package com.iandroid.allclass.okhttp;
 
 /**
- * Created by david on 2019/6/24.
+ * created by wangkm
+ * on 2020-7-7
  */
 public interface HttpResponse<T> {
 

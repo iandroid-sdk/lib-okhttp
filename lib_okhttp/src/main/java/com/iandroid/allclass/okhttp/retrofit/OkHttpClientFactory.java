@@ -9,7 +9,8 @@ import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;
 
 /**
- * Created by david on 2019/6/25.
+ * created by wangkm
+ * on 2020-7-7
  */
 public class OkHttpClientFactory {
 

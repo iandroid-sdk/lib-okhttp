@@ -2,7 +2,8 @@ package com.iandroid.allclass.okhttp.ex;
 
 
 /**
- * Created by david on 2019/5/22.
+ * created by wangkm
+ * on 2020-7-7
  */
 public class SysException extends BaseException {
     public SysException(int errorCode) {

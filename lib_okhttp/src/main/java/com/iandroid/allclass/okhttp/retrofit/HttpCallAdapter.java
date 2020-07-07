@@ -12,7 +12,8 @@ import retrofit2.CallAdapter;
 import retrofit2.Retrofit;
 
 /**
- * Created by Developer Zailong Shi on 2019-06-20.
+ * created by wangkm
+ * on 2020-7-7
  */
 public class HttpCallAdapter<R> implements CallAdapter<R, Observable<R>> {
 

@@ -7,8 +7,8 @@ import com.iandroid.allclass.okhttp.ex.BaseException;
 import com.iandroid.allclass.okhttp.ex.ErrorCode;
 import com.iandroid.allclass.okhttp.interceptor.ErrorInterceptor;
 /**
- * 可以再此处统一处理错误相关信息
- * Created by david on 2019/7/4.
+ * created by wangkm
+ * on 2020-7-7
  */
 public class DefaultErrorHandler {
 

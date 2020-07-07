@@ -1,7 +1,8 @@
 package com.iandroid.allclass.okhttp.ex;
 
 /**
- * Created by david on 2019/5/16.
+ * created by wangkm
+ * on 2020-7-7
  */
 public class ApiException extends BaseException {
     public ApiException(int errorCode, String errorMsg) {

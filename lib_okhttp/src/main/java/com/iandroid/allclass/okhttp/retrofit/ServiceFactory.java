@@ -11,7 +11,8 @@ import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import retrofit2.converter.fastjson.FastJsonConverterFactory;
 
 /**
- * Created by david on 2019/6/24.
+ * created by wangkm
+ * on 2020-7-7
  */
 public class ServiceFactory {
 

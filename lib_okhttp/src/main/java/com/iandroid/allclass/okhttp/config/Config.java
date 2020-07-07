@@ -1,5 +1,10 @@
 package com.iandroid.allclass.okhttp.config;
 
+/**
+ * created by wangkm
+ * on 2020-7-7
+ */
+
 public class Config {
     public static final String KEY_DOMAIN = "Domain";
     public static final String DOMAIN_NONE = KEY_DOMAIN + ":NONE";      //不指定域名 动态@Url

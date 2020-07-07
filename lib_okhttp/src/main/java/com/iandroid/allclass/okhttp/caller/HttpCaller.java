@@ -8,9 +8,9 @@ import java.lang.reflect.Type;
 
 import androidx.lifecycle.LifecycleOwner;
 
-
 /**
- * Created by david on 2019/6/25.
+ * created by wangkm
+ * on 2020-7-7
  */
 public class HttpCaller<T> implements Caller<T> {
 

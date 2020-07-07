@@ -6,7 +6,8 @@ import com.iandroid.allclass.okhttp.observer.Observable;
 import com.iandroid.allclass.okhttp.retrofit.RetrofitUtils;
 
 /**
- * Created by david on 2019/6/24.
+ * created by wangkm
+ * on 2020-7-7
  */
 public class HttpManager {
 

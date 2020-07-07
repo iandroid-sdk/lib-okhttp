@@ -4,7 +4,8 @@ import androidx.lifecycle.LifecycleObserver;
 import androidx.lifecycle.LifecycleOwner;
 
 /**
- * Created by david on 2019/6/24.
+ * created by wangkm
+ * on 2020-7-7
  */
 public interface Observable<R> extends LifecycleObserver {
     void observe(Observer observer);

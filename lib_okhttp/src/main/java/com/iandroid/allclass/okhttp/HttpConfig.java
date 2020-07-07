@@ -14,7 +14,8 @@ import java.util.List;
 import okhttp3.Interceptor;
 
 /**
- * Created by david on 2019/6/25.
+ * created by wangkm
+ * on 2020-7-7
  */
 public class HttpConfig {
     private String baseUrl;

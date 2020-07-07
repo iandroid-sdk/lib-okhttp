@@ -7,7 +7,8 @@ import java.util.Locale;
 import okhttp3.Headers;
 
 /**
- * Created by david on 2019/6/25.
+ * created by wangkm
+ * on 2020-7-7
  */
 public class HeaderManager extends BaseHeaderManager {
     private static HeaderManager intance;
